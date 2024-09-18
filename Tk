@@ -1,0 +1,16 @@
+### tkinter 프로그램 생성 4단계 ###
+# 1. 화면 생성
+# 2. 화면 안에 위치할  UI나 함수 생성
+# 3. UI 배치
+# 4. mainloop() 실행해서 결과 확인
+
+# ## A. 레이블 생성하기
+# from tkinter import *
+# # root window 생성
+# root = Tk()
+# # 텍스트 표시
+# text = Label(root,text="text") #Label(출력하고자 하는 창이름, text="텍스트")
+# text.pack() # 레이블 배치 실행 (pack)
+
+# #결과확인
+# root.mainloop()
